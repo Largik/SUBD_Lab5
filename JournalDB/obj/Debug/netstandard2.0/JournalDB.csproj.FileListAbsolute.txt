@@ -1,0 +1,4 @@
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalDB\obj\Debug\netstandard2.0\JournalDB.csprojAssemblyReference.cache
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalDB\obj\Debug\netstandard2.0\JournalDB.AssemblyInfoInputs.cache
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalDB\obj\Debug\netstandard2.0\JournalDB.AssemblyInfo.cs
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalDB\obj\Debug\netstandard2.0\JournalDB.csproj.CoreCompileInputs.cache

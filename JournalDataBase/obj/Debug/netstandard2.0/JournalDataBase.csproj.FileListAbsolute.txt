@@ -1,0 +1,12 @@
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalDataBase\obj\Debug\netstandard2.0\JournalDataBase.csprojAssemblyReference.cache
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalDataBase\obj\Debug\netstandard2.0\JournalDataBase.AssemblyInfoInputs.cache
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalDataBase\obj\Debug\netstandard2.0\JournalDataBase.AssemblyInfo.cs
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalDataBase\obj\Debug\netstandard2.0\JournalDataBase.csproj.CoreCompileInputs.cache
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalDataBase\bin\Debug\netstandard2.0\JournalDataBase.deps.json
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalDataBase\bin\Debug\netstandard2.0\JournalDataBase.dll
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalDataBase\bin\Debug\netstandard2.0\JournalDataBase.pdb
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalDataBase\bin\Debug\netstandard2.0\JournalBusinessLogic.dll
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalDataBase\bin\Debug\netstandard2.0\JournalBusinessLogic.pdb
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalDataBase\obj\Debug\netstandard2.0\JournalDataBase.csproj.CopyComplete
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalDataBase\obj\Debug\netstandard2.0\JournalDataBase.dll
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalDataBase\obj\Debug\netstandard2.0\JournalDataBase.pdb

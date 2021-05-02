@@ -1,0 +1,9 @@
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalBusinessLogic\bin\Debug\netstandard2.0\JournalBusinessLogic.deps.json
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalBusinessLogic\bin\Debug\netstandard2.0\JournalBusinessLogic.dll
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalBusinessLogic\bin\Debug\netstandard2.0\JournalBusinessLogic.pdb
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalBusinessLogic\obj\Debug\netstandard2.0\JournalBusinessLogic.AssemblyInfoInputs.cache
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalBusinessLogic\obj\Debug\netstandard2.0\JournalBusinessLogic.AssemblyInfo.cs
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalBusinessLogic\obj\Debug\netstandard2.0\JournalBusinessLogic.csproj.CoreCompileInputs.cache
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalBusinessLogic\obj\Debug\netstandard2.0\JournalBusinessLogic.dll
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalBusinessLogic\obj\Debug\netstandard2.0\JournalBusinessLogic.pdb
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalBusinessLogic\obj\Debug\netstandard2.0\JournalBusinessLogic.csprojAssemblyReference.cache

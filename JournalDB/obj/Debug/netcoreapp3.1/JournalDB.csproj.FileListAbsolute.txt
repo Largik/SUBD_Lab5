@@ -1,0 +1,9 @@
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalDB\bin\Debug\netcoreapp3.1\JournalDB.deps.json
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalDB\bin\Debug\netcoreapp3.1\JournalDB.dll
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalDB\bin\Debug\netcoreapp3.1\JournalDB.pdb
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalDB\obj\Debug\netcoreapp3.1\JournalDB.csprojAssemblyReference.cache
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalDB\obj\Debug\netcoreapp3.1\JournalDB.AssemblyInfoInputs.cache
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalDB\obj\Debug\netcoreapp3.1\JournalDB.AssemblyInfo.cs
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalDB\obj\Debug\netcoreapp3.1\JournalDB.csproj.CoreCompileInputs.cache
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalDB\obj\Debug\netcoreapp3.1\JournalDB.dll
+D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalDB\obj\Debug\netcoreapp3.1\JournalDB.pdb
