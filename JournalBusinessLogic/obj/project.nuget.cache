@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/5OH2A9QWiER++gVEEiYnoP0MQpqSe7/CEYg3YozT37rGEorNGkeCyyNWVooeX10KfvSzFzRVuTxAjt4OIyPbQ==",
+  "dgSpecHash": "NI9kY/7KIqRHhvvTvQPBx+Uyh4H6wS+VYPa6XO2Z16FhgV5nTIth92WvbUX6sKobzsgmLRIwT9dnRhou5+YWow==",
   "success": true,
-  "projectFilePath": "D:\\Учёба\\2курс\\4семестр\\СУБД\\5Лаба\\SUBD\\JournalBusinessLogic\\JournalBusinessLogic.csproj",
+  "projectFilePath": "C:\\Users\\User\\SUBD_Lab5\\JournalBusinessLogic\\JournalBusinessLogic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

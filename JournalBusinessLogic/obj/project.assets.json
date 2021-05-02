@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Учёба\\2курс\\4семестр\\СУБД\\5Лаба\\SUBD\\JournalBusinessLogic\\JournalBusinessLogic.csproj",
+      "projectUniqueName": "C:\\Users\\User\\SUBD_Lab5\\JournalBusinessLogic\\JournalBusinessLogic.csproj",
       "projectName": "JournalBusinessLogic",
-      "projectPath": "D:\\Учёба\\2курс\\4семестр\\СУБД\\5Лаба\\SUBD\\JournalBusinessLogic\\JournalBusinessLogic.csproj",
+      "projectPath": "C:\\Users\\User\\SUBD_Lab5\\JournalBusinessLogic\\JournalBusinessLogic.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Учёба\\2курс\\4семестр\\СУБД\\5Лаба\\SUBD\\JournalBusinessLogic\\obj\\",
+      "outputPath": "C:\\Users\\User\\SUBD_Lab5\\JournalBusinessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

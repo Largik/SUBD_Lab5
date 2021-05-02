@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YMN6IoyXl4rpReJxJBeXwgiPYWmCmIYml25k5WK8GtTND683k7RrCkSlL7qw02wtOwAbmDACBlQqn8TrVoZVXw==",
+  "dgSpecHash": "qM8Gn9kYRpqar6i2yBNq6qM/Rp/ygYSNRNdKWevj+gZD7TqaQVQFIXy6sqXfHByWOdIplrsgsMasDIrmxEIdfw==",
   "success": true,
-  "projectFilePath": "D:\\Учёба\\2курс\\4семестр\\СУБД\\5Лаба\\SUBD\\JournalDataBase\\JournalDataBase.csproj",
+  "projectFilePath": "C:\\Users\\User\\SUBD_Lab5\\JournalDataBase\\JournalDataBase.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
