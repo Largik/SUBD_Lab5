@@ -10,3 +10,15 @@ D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalDataBase\
 D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalDataBase\obj\Debug\netstandard2.0\JournalDataBase.csproj.CopyComplete
 D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalDataBase\obj\Debug\netstandard2.0\JournalDataBase.dll
 D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalDataBase\obj\Debug\netstandard2.0\JournalDataBase.pdb
+C:\Users\User\SUBD_Lab5\JournalDataBase\bin\Debug\netstandard2.0\JournalDataBase.deps.json
+C:\Users\User\SUBD_Lab5\JournalDataBase\bin\Debug\netstandard2.0\JournalDataBase.dll
+C:\Users\User\SUBD_Lab5\JournalDataBase\bin\Debug\netstandard2.0\JournalDataBase.pdb
+C:\Users\User\SUBD_Lab5\JournalDataBase\bin\Debug\netstandard2.0\JournalBusinessLogic.dll
+C:\Users\User\SUBD_Lab5\JournalDataBase\bin\Debug\netstandard2.0\JournalBusinessLogic.pdb
+C:\Users\User\SUBD_Lab5\JournalDataBase\obj\Debug\netstandard2.0\JournalDataBase.csprojAssemblyReference.cache
+C:\Users\User\SUBD_Lab5\JournalDataBase\obj\Debug\netstandard2.0\JournalDataBase.AssemblyInfoInputs.cache
+C:\Users\User\SUBD_Lab5\JournalDataBase\obj\Debug\netstandard2.0\JournalDataBase.AssemblyInfo.cs
+C:\Users\User\SUBD_Lab5\JournalDataBase\obj\Debug\netstandard2.0\JournalDataBase.csproj.CoreCompileInputs.cache
+C:\Users\User\SUBD_Lab5\JournalDataBase\obj\Debug\netstandard2.0\JournalDataBase.csproj.CopyComplete
+C:\Users\User\SUBD_Lab5\JournalDataBase\obj\Debug\netstandard2.0\JournalDataBase.dll
+C:\Users\User\SUBD_Lab5\JournalDataBase\obj\Debug\netstandard2.0\JournalDataBase.pdb

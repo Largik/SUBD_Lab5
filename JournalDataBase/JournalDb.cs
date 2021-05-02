@@ -17,7 +17,7 @@ namespace JournalDB
 
                 string dbConfig;
 
-                using (StreamReader sr = new StreamReader($"{startupPath}\\JournalDataBase\\Db.json"))
+                using (StreamReader sr = new StreamReader($"{startupPathForMigrations}\\JournalDataBase\\Db.json"))
                 {
                     dbConfig = sr.ReadToEnd();
                 }
