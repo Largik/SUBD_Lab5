@@ -2,6 +2,7 @@
 using JournalBusinessLogic.Interfaces;
 using JournalBusinessLogic.ViewModels;
 using JournalDB.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -34,6 +35,7 @@ namespace JournalDB.Implements
             using (var context = new JournalDb())
             {
                 var discipline = context.Disciplines
+                    .Include(rec => rec.User)
                     .FirstOrDefault(rec => rec.NameDiscipline == model.NameDiscipline ||
                     rec.Id == model.Id);
 
