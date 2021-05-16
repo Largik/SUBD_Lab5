@@ -7,3 +7,12 @@ D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalBusinessL
 D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalBusinessLogic\obj\Debug\netstandard2.0\JournalBusinessLogic.dll
 D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalBusinessLogic\obj\Debug\netstandard2.0\JournalBusinessLogic.pdb
 D:\Учёба\2курс\4семестр\СУБД\5Лаба\SUBD\JournalBusinessLogic\obj\Debug\netstandard2.0\JournalBusinessLogic.csprojAssemblyReference.cache
+C:\Users\User\SUBD_Lab5\JournalBusinessLogic\bin\Debug\netstandard2.0\JournalBusinessLogic.deps.json
+C:\Users\User\SUBD_Lab5\JournalBusinessLogic\bin\Debug\netstandard2.0\JournalBusinessLogic.dll
+C:\Users\User\SUBD_Lab5\JournalBusinessLogic\bin\Debug\netstandard2.0\JournalBusinessLogic.pdb
+C:\Users\User\SUBD_Lab5\JournalBusinessLogic\obj\Debug\netstandard2.0\JournalBusinessLogic.csprojAssemblyReference.cache
+C:\Users\User\SUBD_Lab5\JournalBusinessLogic\obj\Debug\netstandard2.0\JournalBusinessLogic.AssemblyInfoInputs.cache
+C:\Users\User\SUBD_Lab5\JournalBusinessLogic\obj\Debug\netstandard2.0\JournalBusinessLogic.AssemblyInfo.cs
+C:\Users\User\SUBD_Lab5\JournalBusinessLogic\obj\Debug\netstandard2.0\JournalBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\User\SUBD_Lab5\JournalBusinessLogic\obj\Debug\netstandard2.0\JournalBusinessLogic.dll
+C:\Users\User\SUBD_Lab5\JournalBusinessLogic\obj\Debug\netstandard2.0\JournalBusinessLogic.pdb
