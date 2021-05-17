@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JournalBusinessLogic", "JournalBusinessLogic\JournalBusinessLogic.csproj", "{AD359095-91BB-4AD3-A352-F878153962F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JournalBusinessLogic", "JournalBusinessLogic\JournalBusinessLogic.csproj", "{AD359095-91BB-4AD3-A352-F878153962F1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JournalView", "JournalView\JournalView.csproj", "{6B2CD1A9-733D-4AF9-AD67-CCB39FCAFCB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JournalDataBase", "JournalDataBase\JournalDataBase.csproj", "{D792A9FD-6F66-4056-BCA9-B46B487A10A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JournalDataBase", "JournalDataBase\JournalDataBase.csproj", "{D792A9FD-6F66-4056-BCA9-B46B487A10A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LAb7", "LAb7\LAb7.csproj", "{59E0FDE1-C3B1-425D-9183-18D0658B9EEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{D792A9FD-6F66-4056-BCA9-B46B487A10A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D792A9FD-6F66-4056-BCA9-B46B487A10A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D792A9FD-6F66-4056-BCA9-B46B487A10A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59E0FDE1-C3B1-425D-9183-18D0658B9EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59E0FDE1-C3B1-425D-9183-18D0658B9EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59E0FDE1-C3B1-425D-9183-18D0658B9EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59E0FDE1-C3B1-425D-9183-18D0658B9EEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
